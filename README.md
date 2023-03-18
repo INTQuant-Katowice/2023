@@ -1,1 +1,1 @@
-Data & Learning materials for INTQuant 2022 participants
+Data & Learning materials for INTQuant 2023 participants
